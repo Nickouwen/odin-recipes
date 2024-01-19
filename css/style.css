@@ -1,0 +1,44 @@
+.lasagna {
+    /*list-style-image:url(../images/lasagna-icon.png);*/
+    margin: 0;
+	padding: 18px 0 18px 40px;
+    list-style:none;
+    background-image: url(../images/lasagna-icon.png);
+    background-repeat:no-repeat;
+    background-position:left center;
+    background-size:25px;
+}
+
+.burger {
+    /*list-style-image:url(../images/burger-icon.png);*/
+    margin: 0;
+	padding: 18px 0 18px 40px;
+    list-style:none;
+    background-image: url(../images/burger-icon.png);
+    background-repeat:no-repeat;
+    background-position:left center;
+    background-size:25px;
+}
+
+.cookie {
+    /*list-style-image:url(../images/cookie-icon.png);*/
+    margin: 0;
+	padding: 18px 0 18px 40px;
+    list-style:none;
+    background-image: url(../images/cookie-icon.png);
+    background-repeat:no-repeat;
+    background-position:left center;
+    background-size:25px;
+}
+
+a {
+    text-decoration:none;
+}
+
+nav a {
+    color:#000000;
+}
+
+a:hover {
+    text-decoration:underline;
+}
