@@ -1,3 +1,10 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+ul {
+    margin: 0px;
+    padding: 1.5%;
+}
 .lasagna {
     /*list-style-image:url(../images/lasagna-icon.png);*/
     margin: 0;
@@ -48,4 +55,10 @@ a:hover {
     background-color:#67b9e3;
     padding-top:30px;
     padding-bottom:30px;
+}
+.ingredients {
+    padding-left:1%;
+    border-radius:5%;
+    background-color:#0000003a;
+    width:500px;
 }
